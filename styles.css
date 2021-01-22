@@ -1,0 +1,30 @@
+h1 {
+  font-family: monospace;
+  text-align: center;
+  padding: 2rem;
+  margin: 3rem;
+}
+h2 {
+  font-family: monospace;
+  text-align: center;
+  padding: 2rem;
+}
+h6 {
+  font-family: monospace;
+  text-align: center;
+  padding: 2rem;
+}
+p {
+  font-family: monospace;
+  text-align: center;
+  padding: 2rem;
+}
+body {
+  background-color: #252525;
+}
+img {
+  margin-left: 700px;
+}
+.color {
+  color: #6a31c7;
+}
